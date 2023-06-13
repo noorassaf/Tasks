@@ -1,0 +1,17 @@
+C:\Users\Sarrah Alhamwi\Desktop\myprojects\MissionSystem.Api\MissionSystem.EF\bin\Debug\net7.0\MissionSystem.EF.deps.json
+C:\Users\Sarrah Alhamwi\Desktop\myprojects\MissionSystem.Api\MissionSystem.EF\bin\Debug\net7.0\MissionSystem.EF.runtimeconfig.json
+C:\Users\Sarrah Alhamwi\Desktop\myprojects\MissionSystem.Api\MissionSystem.EF\bin\Debug\net7.0\MissionSystem.EF.dll
+C:\Users\Sarrah Alhamwi\Desktop\myprojects\MissionSystem.Api\MissionSystem.EF\bin\Debug\net7.0\MissionSystem.EF.pdb
+C:\Users\Sarrah Alhamwi\Desktop\myprojects\MissionSystem.Api\MissionSystem.EF\bin\Debug\net7.0\MissionSystem.Core.dll
+C:\Users\Sarrah Alhamwi\Desktop\myprojects\MissionSystem.Api\MissionSystem.EF\bin\Debug\net7.0\MissionSystem.Core.pdb
+C:\Users\Sarrah Alhamwi\Desktop\myprojects\MissionSystem.Api\MissionSystem.EF\obj\Debug\net7.0\MissionSystem.EF.csproj.AssemblyReference.cache
+C:\Users\Sarrah Alhamwi\Desktop\myprojects\MissionSystem.Api\MissionSystem.EF\obj\Debug\net7.0\MissionSystem.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarrah Alhamwi\Desktop\myprojects\MissionSystem.Api\MissionSystem.EF\obj\Debug\net7.0\MissionSystem.EF.AssemblyInfoInputs.cache
+C:\Users\Sarrah Alhamwi\Desktop\myprojects\MissionSystem.Api\MissionSystem.EF\obj\Debug\net7.0\MissionSystem.EF.AssemblyInfo.cs
+C:\Users\Sarrah Alhamwi\Desktop\myprojects\MissionSystem.Api\MissionSystem.EF\obj\Debug\net7.0\MissionSystem.EF.csproj.CoreCompileInputs.cache
+C:\Users\Sarrah Alhamwi\Desktop\myprojects\MissionSystem.Api\MissionSystem.EF\obj\Debug\net7.0\MissionSystem.EF.csproj.CopyComplete
+C:\Users\Sarrah Alhamwi\Desktop\myprojects\MissionSystem.Api\MissionSystem.EF\obj\Debug\net7.0\MissionSystem.EF.dll
+C:\Users\Sarrah Alhamwi\Desktop\myprojects\MissionSystem.Api\MissionSystem.EF\obj\Debug\net7.0\refint\MissionSystem.EF.dll
+C:\Users\Sarrah Alhamwi\Desktop\myprojects\MissionSystem.Api\MissionSystem.EF\obj\Debug\net7.0\MissionSystem.EF.pdb
+C:\Users\Sarrah Alhamwi\Desktop\myprojects\MissionSystem.Api\MissionSystem.EF\obj\Debug\net7.0\MissionSystem.EF.genruntimeconfig.cache
+C:\Users\Sarrah Alhamwi\Desktop\myprojects\MissionSystem.Api\MissionSystem.EF\obj\Debug\net7.0\ref\MissionSystem.EF.dll

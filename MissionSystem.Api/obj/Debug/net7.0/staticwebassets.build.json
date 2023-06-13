@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DKyfQ5xUoJois7gm0wnHBpykJDdBnzdMniW6TomdMWs=",
+  "Source": "MissionSystem.Api",
+  "BasePath": "_content/MissionSystem.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
