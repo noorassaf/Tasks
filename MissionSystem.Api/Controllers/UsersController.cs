@@ -51,8 +51,8 @@ namespace MissionSystem.Api.Controllers
             if (user == null) return NotFound();
             var mission=await _unitOfWork.Mission.GetByIdAsync(TId);
             if (mission == null) return NotFound();
-           //var um= await _unitOfWork.UserMission.FindAllAsync(um => um.UserId == UId && um.MissionId == TId);
-           // if(um != null) return Ok(um);
+           var um= await _unitOfWork.UserMission.FindAsync(um => um.UserId == UId & um.MissionId==TId);
+           if(um != null) return BadRequest();
             var usermission = new UserMission
             {
                 Mission = mission,
